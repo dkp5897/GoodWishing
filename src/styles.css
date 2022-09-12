@@ -1,0 +1,22 @@
+body {
+  background-color: aquamarine;
+}
+
+.massage {
+  width: 600px;
+  height: 100px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 20px;
+}
+div {
+  text-align: center;
+}
